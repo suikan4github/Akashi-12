@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "Raspberry Pi Pico")(type "KiCad")(uri "${KIPRJMOD}/lib/RP2040.kicad_sym")(options "")(descr ""))
+  (lib (name "Connector")(type "KiCad")(uri "${KIPRJMOD}/lib/2171790001.kicad_sym")(options "")(descr ""))
+)
